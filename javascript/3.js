@@ -8,14 +8,13 @@ function sumaDados() {
     return dado1 + dado2;
 }
 let suma=[];
-
 for (let i=0;i<50;i++) {
     let resultado=sumaDados();
     suma.push(resultado);
 }
 for (let i=2; i<=12;i++) {
     let contador=0;
-    for (let j=0;j<suma.length; j++) {
+    for (let j=0;j<suma.length;j++) {
         if (suma[j]===i) {
             contador++;
         }
