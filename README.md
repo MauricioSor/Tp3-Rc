@@ -4,7 +4,7 @@
 
 ## How to clone this repository:
 1. open the git bash console or open the console inside of your favourite IDE .
-2. Paste " ``` git clone  https://github.com/MauricioSor/Tp2-Rc.git``` "
+2. Paste " ``` git clone  https://github.com/MauricioSor/Tp3-Rc.git``` "
 
 ## Please . If you like this project give me a star to know it 🌟🤩 
 ## Thanks!! 
